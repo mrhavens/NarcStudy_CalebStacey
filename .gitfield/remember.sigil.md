@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/joel-johnson/NarcStudy_CalebStacey`
 - **Remote Label**: `remember`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-09 18:02:30`
+- **Repo Created**: `2025-07-09 18:13:05`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-09 18:02:30`
-- **Last Commit SHA**: `3f4e99d6ca121c87dddf0b2b661c860071f78663`
+- **This Commit Timestamp**: `2025-07-09 18:13:05`
+- **Last Commit SHA**: `a26ce596c902217ffa5320d5e7deca121277f0f6`
 - **Last Commit Message**: `Post-Radicle sync at 2025-07-09T22:58:23Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Wed Jul 9 18:02:07 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_CalebStacey/commit/3f4e99d6ca121c87dddf0b2b661c860071f78663](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_CalebStacey/commit/3f4e99d6ca121c87dddf0b2b661c860071f78663)
+- **Last Commit Date**: `Wed Jul 9 18:12:59 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_CalebStacey/commit/a26ce596c902217ffa5320d5e7deca121277f0f6](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_CalebStacey/commit/a26ce596c902217ffa5320d5e7deca121277f0f6)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `36`
-- **Tracked Files**: `68`
+- **Total Commits**: `55`
+- **Tracked Files**: `80`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 2 hours, 48 minutes`
+- **System Uptime**: `up 2 hours, 59 minutes`
 - **MAC Address**: `00:15:5d:50:25:07`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
