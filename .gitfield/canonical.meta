@@ -1,0 +1,24 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/NarcStudy_CalebStacey",
+  "mirrors": [
+    "https://github.com/mrhavens/NarcStudy_CalebStacey",
+    "https://gitlab.com/mrhavens/NarcStudy_CalebStacey",
+    "https://bitbucket.org/thefoldwithin/NarcStudy_CalebStacey",
+    "https://remember.thefoldwithin.earth/mrhavens/NarcStudy_CalebStacey",
+    "https://codeberg.org/mrhavens/NarcStudy_CalebStacey",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "timestamp": "2025-07-09T22:58:23Z",
+  "commit": "bbaed5b",
+  "tree_hash": "ce8ae69ffe65296d6181d4ba74c4d0a3022e8d7b",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
